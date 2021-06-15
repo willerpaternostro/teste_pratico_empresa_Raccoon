@@ -1,0 +1,255 @@
+[
+    {
+       "event":"pageView",
+       "current":"/",
+       "previous":null
+    },
+    {
+       "event":"addToCart",
+       "id":5677240,
+       "name":"Conjunto de Panelas antiaderentes com 05 Peças Paris",
+       "quantity":2,
+       "price":192.84,
+       "category":"Panelas"
+    },
+    {
+       "event":"pageView",
+       "current":"/eletrodomesticos",
+       "previous":"/"
+    },
+    {
+       "event":"addToCart",
+       "id":9628920,
+       "name":"Lava & Seca 10,2 Kg Samsung Eco bubble branca com 09 Programas de Lavagem",
+       "quantity":1,
+       "price":3719.7,
+       "category":"Eletrodomésticos"
+    },
+    {
+       "event":"addToCart",
+       "id":1316334,
+       "name":"Refrigerador bottom Freezer Electrolux de 02 Portas Frost Free com 598 Litros",
+       "quantity":2,
+       "price":3880.23,
+       "category":"Eletrodomésticos"
+    },
+    {
+       "event":"addToCart",
+       "id":6502394,
+       "name":"Fogão de Piso Electrolux de 04 bocas, Mesa de Vidro Prata",
+       "quantity":3,
+       "price":1419,
+       "category":"Eletrodomésticos"
+    },
+    {
+       "event":"addToCart",
+       "id":9576720,
+       "name":"Forno Micro-ondas Panasonic com capacidade de 21 Litros branco",
+       "quantity":2,
+       "price":358.77,
+       "category":"Eletrodomésticos"
+    },
+    {
+       "event":"pageView",
+       "current":"/cart",
+       "previous":"/eletrodomesticos"
+    },
+    {
+       "event":"removeFromCart",
+       "id":5677240,
+       "name":"Conjunto de Panelas antiaderentes com 05 Peças Paris",
+       "quantity":1,
+       "price":192.84,
+       "category":"Panelas"
+    },
+    {
+       "event":"removeFromCart",
+       "id":6502394,
+       "name":"Fogão de Piso Electrolux de 04 bocas, Mesa de Vidro Prata",
+       "price":1419,
+       "category":"Eletrodomésticos",
+       "quantity":1
+    },
+    {
+       "event":"removeFromCart",
+       "id":1316334,
+       "name":"Refrigerador bottom Freezer Electrolux de 02 Portas Frost Free com 598 Litros",
+       "quantity":2,
+       "price":3880.23,
+       "category":"Eletrodomésticos"
+    },
+    {
+       "event":"pageView",
+       "current":"/eletronicos",
+       "previous":"/cart"
+    },
+    {
+       "event":"addToCart",
+       "id":8875900,
+       "name":"Smart TV 4K Sony LED 65” 4K X-Reality Pro, UpScalling, Motionflow XR 240 e Wi-F",
+       "price":5799.42,
+       "category":"Eletrônicos",
+       "quantity":1
+    },
+    {
+       "event":"addToCart",
+       "id":9746439,
+       "name":"Home Theater LG com blu-ray 3D, 5.1 canais e 1000W",
+       "quantity":3,
+       "price":2199,
+       "category":"Eletrônicos"
+    },
+    {
+       "event":"addToCart",
+       "id":2162952,
+       "name":"Kit Gamer acer - Notebook + Headset + Mouse",
+       "price":25599,
+       "category":"Eletrônicos",
+       "quantity":1
+    },
+    {
+       "event":"addToCart",
+       "id":3500957,
+       "name":"Monitor 29 LG FHD Ultrawide com 1000:1 de contraste",
+       "quantity":4,
+       "price":1559.4,
+       "category":"Eletrônicos"
+    },
+    {
+       "event":"pageView",
+       "current":"/",
+       "previous":"/eletronicos"
+    },
+    {
+       "event":"addToCart",
+       "id":1911864,
+       "name":"Mouse Gamer Predator cestus 510 Fox Preto",
+       "price":699,
+       "category":"Acessórios",
+       "quantity":1
+    },
+    {
+       "event":"pageView",
+       "current":"/cart",
+       "previous":"/"
+    },
+    {
+       "event":"removeFromCart",
+       "id":8875900,
+       "name":"Smart TV 4K Sony LED 65” 4K X-Reality Pro, UpScalling, Motionflow XR 240 e Wi-F",
+       "quantity":1,
+       "price":5799.42,
+       "category":"Eletrônicos"
+    },
+    {
+       "event":"removeFromCart",
+       "id":9746439,
+       "name":"Home Theater LG com blu-ray 3D, 5.1 canais e 1000W",
+       "quantity":2,
+       "price":2199,
+       "category":"Eletrônicos"
+    },
+    {
+       "event":"pageView",
+       "current":"/purchase",
+       "previous":"/cart"
+    },
+    {
+       "event":"purchase",
+       "total":42202.68,
+       "shipping":0,
+       "products":[
+          {
+             "id":5677240,
+             "name":"Conjunto de Panelas antiaderentes com 05 Peças Paris",
+             "quantity":1,
+             "price":192.84,
+             "category":"Panelas"
+          },
+          {
+             "id":9628920,
+             "name":"Lava & Seca 10,2 Kg Samsung Eco bubble branca com 09 Programas de Lavagem",
+             "quantity":1,
+             "price":3719.7,
+             "category":"Eletrodomésticos"
+          },
+          {
+             "id":1316334,
+             "name":"Refrigerador bottom Freezer Electrolux de 02 Portas Frost Free com 598 Litros",
+             "quantity":0,
+             "price":3880.23,
+             "category":"Eletrodomésticos"
+          },
+          {
+             "id":6502394,
+             "name":"Fogão de Piso Electrolux de 04 bocas, Mesa de Vidro Prata",
+             "quantity":2,
+             "price":1419,
+             "category":"Eletrodomésticos"
+          },
+          {
+             "id":9576720,
+             "name":"Forno Micro-ondas Panasonic com capacidade de 21 Litros branco",
+             "quantity":2,
+             "price":358.77,
+             "category":"Eletrodomésticos"
+          },
+          {
+             "id":8875900,
+             "name":"Smart TV 4K Sony LED 65” 4K X-Reality Pro, UpScalling, Motionflow XR 240 e Wi-F",
+             "quantity":0,
+             "price":5799.42,
+             "category":"Eletrônicos"
+          },
+          {
+             "id":9746439,
+             "name":"Home Theater LG com blu-ray 3D, 5.1 canais e 1000W",
+             "quantity":1,
+             "price":2199,
+             "category":"Eletrônicos"
+          },
+          {
+             "id":2162952,
+             "name":"Kit Gamer acer - Notebook + Headset + Mouse",
+             "quantity":1,
+             "price":25599,
+             "category":"Eletrônicos"
+          },
+          {
+             "id":3500957,
+             "name":"Monitor 29 LG FHD Ultrawide com 1000:1 de contraste",
+             "quantity":4,
+             "price":1559.4,
+             "category":"Eletrônicos"
+          },
+          {
+             "id":1911864,
+             "name":"Mouse Gamer Predator cestus 510 Fox Preto",
+             "quantity":1,
+             "price":699,
+             "category":"Acessórios"
+          }
+       ]
+    },
+    {
+       "event":"pageView",
+       "current":"/",
+       "previous":"/purchase"
+    },
+    {
+       "event":"addToCart",
+       "id":3500957,
+       "name":"Monitor 29 LG FHD Ultrawide com 1000:1 de contraste",
+       "quantity":4,
+       "price":1559.4,
+       "category":"Eletrônicos"
+    },
+    {
+       "event":"addToCart",
+       "id":1911864,
+       "name":"Mouse Gamer Predator cestus 510 Fox Preto",
+       "price":699,
+       "category":"Acessórios",
+       "quantity":1
+    }
+ ]
